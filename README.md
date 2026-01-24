@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=300&section=header&text=Security%20Analyst%20%26%20Pentester&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Breaching%20Defenses%20%26%20Hunting%20Threats&descAlignY=55&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=300&section=header&text=Security%20Analyst%20and%20Pentester&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Breaching%20Defenses%20-%20Hunting%20Threats&descAlignY=55&descAlign=62" width="100%"/>
 </div>
 
 ### 👋 Hi there, I'm a Purple Team Enthusiast!
@@ -47,11 +47,4 @@ Tools & Technologies I use for attacking and defending:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Wazuh-00B5E2?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Threat_Intel-OpenCTI-001F3F?style=for-the-badge&logo=security&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tegarfadillah-myz&show_icons=true&theme=radical&hide_border=true" />
 </p>
