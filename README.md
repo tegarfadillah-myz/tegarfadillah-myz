@@ -31,7 +31,7 @@ I am expanding my arsenal into **Threat Intelligence** and **Endpoint Security**
 ---
 
 ### 🏆 TryHackMe Stats
-<a href="https://tryhackme.com/p/tegarfadillah-myz">
+<a href="https://tryhackme.com/p/lealore">
   <img src="https://tryhackme-badges.s3.amazonaws.com/lealore.png" alt="TryHackMe Badge"/>
 </a>
 
