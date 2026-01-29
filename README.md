@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=300&section=header&text=Security%20Analyst%20and%20Pentester&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Breaching%20Defenses%20-%20Hunting%20Threats&descAlignY=55&descAlign=62" width="100%"/>
 </div>
 
-### 👋 Hi there, I'm a Purple Team Enthusiast!
+### 👋 Hi there, I'm a CyberSecurity Enthusiast!
 
 I bridge the gap between **Offensive Security** and **Defensive Operations**. 
 
